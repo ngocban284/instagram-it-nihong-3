@@ -1,24 +1,36 @@
-# README
+# How to build Instagram using Ruby on Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is source code basic Instagram using Ruby on Rails. This project is built with Ruby on Rails 5.1.6 Ruby 2.5.1 and Bootstrap 4.0.0.
 
-Things you may want to cover:
+## Site
 
-* Ruby version
+### Landing Page
 
-* System dependencies
+User can login using email/password or using social account.
+![landing page](screenshots/landing.png)
 
-* Configuration
+### Home Page
 
-* Database creation
+![home page](screenshots/home.png)
 
-* Database initialization
+### Post Detail Page
 
-* How to run the test suite
+![post detail page](screenshots/post_detail.png)
 
-* Services (job queues, cache servers, search engines, etc.)
+### My Page
 
-* Deployment instructions
+![my page](screenshots/mypage.png)
 
-* ...
+### Profile Page
+
+![profile page](screenshots/profile.png)
+
+## Built with
+
+- Ruby 2.5
+- Rails 5.1.6+
+- jQuery - Ajax - jQuery simplifies HTML document traversing, event handling, animating, and Ajax interactions for rapid web development.
+- [Bootstrap 4](http://getbootstrap.com/) - Extensive list of components and Bundled Javascript plugins.
+- Awesome [Gems](Gemfile)
+
+## [License](LICENSE.md)
